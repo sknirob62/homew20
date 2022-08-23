@@ -1,0 +1,55 @@
+
+/*this is css practice*/
+.header{
+
+	height: 100px;
+	background-color: skyblue;
+}
+
+
+.container{
+
+overflow: hidden;
+border: 20px solid aqua;
+}
+
+.blog{
+	float: left;
+	width: 40%;
+	height: 200px;
+	background-color:blue ;
+
+}
+.contact{
+float: right;
+width: 60%;
+height: 200px;
+background-color: mediumvioletred;
+}
+
+
+
+
+.box{
+	width: 33.33%;
+	height: 150px;
+	float: left;
+
+}
+
+.red{
+	background-color: red;
+}
+.green{
+	background-color: limegreen;
+}
+.blue{
+	background-color: blue;
+}
+.footer{
+
+	height: 100px;
+	background-color: yellow;
+	/*clear: both ; */
+
+}
